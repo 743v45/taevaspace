@@ -32,10 +32,6 @@ Apple Watch 使用，记录睡眠质量。
 
 Mac 界的 night shift. 暖色屏对眼睛保护真的很好。习惯了，你就离不开了哦。
 
-#### hammerspoon
-
-程序员的控制器，直接通过 lua 脚本实现许多功能。
-
 #### moom
 
 方便的窗口管理
@@ -71,4 +67,25 @@ markdown 编辑器。最干净清爽的界面，可以让我专心写好一个 m
 #### Irvue
 
 随机更换背景图片，不需要自己找图，图片的质量也不错。
+
+## 开源软件
+
+#### [Listen 1](http://listen1.github.io/listen1/)
+
+Listen 1 可以搜索和播放来自网易云音乐，虾米，QQ 音乐三个主流音乐网站的歌曲，让你的曲库更全面。
+
+支持多端应用以及浏览器插件
+
+#### [wechat4u](https://github.com/nodeWechat/wechat4u)
+
+微信机器人，javascript 实现.
+
+#### hammerspoon
+
+程序员的控制器，直接通过 lua 脚本实现许多功能。
+
+
+
+
+
 
